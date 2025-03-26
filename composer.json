@@ -1,5 +1,5 @@
 {
-    "name": "xakki/google-authenticator",
+    "name": "dochne/google-authenticator",
     "description": "Code to authenticate against the Google Authenticator app",
     "license": "MIT",
     "version": "3.0.0",
